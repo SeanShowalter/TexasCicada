@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TexasCicada
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Javascript, HTML/CSS, and Web Design
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me smshowa1@asu.edu [no spam please!]
